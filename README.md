@@ -1,2 +1,2 @@
 # Fritzing Scheme 
-![alt text](Fritzing Scheme.pdf)
+![alt text](Fritzing_Scheme.pdf)

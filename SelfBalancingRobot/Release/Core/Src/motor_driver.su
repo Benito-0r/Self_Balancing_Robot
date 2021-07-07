@@ -1,0 +1,3 @@
+motor_driver.c:28:8:__handler	0	static
+motor_driver.c:55:8:get_direction	8	static
+motor_driver.c:72:6:motorMove	16	static

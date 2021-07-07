@@ -1,0 +1,4 @@
+angle.c:25:7:get_Accel_pitch	32	static
+angle.c:35:6:means_pitch_error	40	static
+angle.c:76:7:get_pitch_accel_error	4	static
+angle.c:84:7:get_pitch_gyro_error	4	static

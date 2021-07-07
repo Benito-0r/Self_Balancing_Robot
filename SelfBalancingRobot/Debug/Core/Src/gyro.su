@@ -1,0 +1,4 @@
+gyro.c:17:6:set_gyro_axes	24	static
+gyro.c:28:9:get_gx	16	static
+gyro.c:37:9:get_gy	16	static
+gyro.c:46:9:get_gz	16	static

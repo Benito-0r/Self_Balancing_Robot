@@ -1,0 +1,4 @@
+accel.c:19:6:set_accel_axes	24	static
+accel.c:30:9:get_ax	16	static
+accel.c:39:9:get_ay	16	static
+accel.c:48:9:get_az	16	static

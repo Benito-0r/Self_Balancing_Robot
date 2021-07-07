@@ -1,0 +1,5 @@
+joystick.c:27:8:request_data	16	static
+joystick.c:41:6:save_data	8	static
+joystick.c:49:6:read_data	16	static
+joystick.c:59:6:set_x	16	static
+joystick.c:67:10:get_x	16	static

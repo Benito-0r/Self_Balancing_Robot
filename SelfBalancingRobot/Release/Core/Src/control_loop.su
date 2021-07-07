@@ -1,0 +1,2 @@
+control_loop.c:32:6:__handle_pitch	56	static
+control_loop.c:97:6:execute_control	32	static
